@@ -1,0 +1,1 @@
+This is the Java program that creates email with firstname and lastname with the department they choose and generate a random password of desired length we can have the alternate email and can change password 
