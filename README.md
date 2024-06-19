@@ -79,9 +79,11 @@ Your password has been updated successfully.
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
 
-## License
+## Finally 
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This Project is made using watching tutorial to learn Java in a simple Manner
+
+
 
 ---
 
