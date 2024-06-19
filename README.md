@@ -34,12 +34,12 @@ This Java program generates emails based on the user's first name, last name, an
 
 1. **Compile the Java program**:
    ```sh
-   javac EmailApp.java
+   javac Main.java
    ```
 
 2. **Run the program**:
    ```sh
-   java EmailApp
+   java Main
    ```
 
 3. **Follow the prompts** to input the first name, last name, and choose a department.
@@ -65,7 +65,6 @@ Enter your department (1 for Sales, 2 for Development, 3 for Accounting): 2
 
 Your email is: john.doe@dev.company.com
 Generated password: xYz1234!
-Would you like to set an alternate email? (yes/no): yes
 Enter alternate email: john.doe.alternate@gmail.com
 
 Your alternate email is set to: john.doe.alternate@gmail.com
@@ -86,4 +85,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize this README.md according to the specifics of your project and repository.
